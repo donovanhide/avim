@@ -1,0 +1,17 @@
+---
+layout: post
+title: "New Blog"
+date: 2008-08-21 16:02:52
+comments: true
+categories:
+---
+
+For me it has been a bit of an off and on relationship with the world of blogging. I really enjoy writing, but find it hard to think of things that I want to share with the world! [Jack](http://submitresponse.co.uk/weblog/) has an excellent blog, full of journalistic content presented in a minimalist style. His writing is the first thing I check for when using [Google Reader](http://www.google.co.uk/reader). One of his [posts](http://submitresponse.co.uk/weblog/2008/06/16/todays-links-160608/) eventually led me to a **really** minimal [blog](http://www.ifany.org) which stuck out for it's elegant layout, intelligent navigation and a complete absence of crud.
+
+Full credit must go to Jonas for releasing his WordPress [theme](http://www.ifany.org/2008/theme/) to the world under a GPL license. I was using [DasBlog](http://www.dasblog.info/) which had more than a whiff of ASP.NET to it, but served a purpose when I had a [DiscountASP.NET](http://www.discountasp.net/) server account without any cheap SQL access. Now, with my pleasant 1 & 1 hosted server I've looked towards [Django](http://www.djangoproject.com) to provide coding pleasure and here is the result! The code is inspired by, but not lifted from [Django Basic Apps](http://code.google.com/p/django-basic-apps/) and the templates and styling are **heavily** influenced by [Jonas'](http://www.ifany.org) html and css.
+
+I realise that both those bits of work are released under different licenses which means I should distribute the derived code freely. If anyone is interested, then I would be happy to put together a Google Code project to share it, although I cannot vouch for the quality of the code!!
+
+Anyway, I'm back!
+
+P.S. As soon as Sophie gets back from holiday I should have a nice brand spanking new logo!

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Web 2.0"
+date: 2006-01-27 18:09:15
+comments: true
+categories:
+---
+
+<a href="http://www.flickr.com/photos/49968232@N00/2252427858" id="fs_1" title="Pewter Ransom Font w"><img alt="Pewter Ransom Font w" src="http://static.flickr.com/2102/2252427858_fd66ab2d3b_s.jpg" border="0"></a><a href="http://www.flickr.com/photos/63943575@N00/2481755799" id="fs_2" title="e-sf2"><img alt="e-sf2" src="http://static.flickr.com/2259/2481755799_e1ff817a47_s.jpg" border="0"></a><a href="http://www.flickr.com/photos/63943575@N00/2640275223" id="fs_3" title="b-"><img alt="b-" src="http://static.flickr.com/3105/2640275223_9fe2b53743_s.jpg" border="0"></a><a href="http://www.flickr.com/photos/49968232@N00/2115371436" id="fs_4" title="2"><img alt="2" src="http://static.flickr.com/2230/2115371436_1dde02661f_s.jpg" border="0"></a><a href="http://www.flickr.com/photos/49968232@N00/85990435" id="fs_5" title="&quot;full stop&quot;"><img alt="full stop" title="full stop" src="http://static.flickr.com/6/85990435_4549262c9b_s.jpg" border="0"></a><a href="http://www.flickr.com/photos/50318388@N00/147488458" id="fs_6" title="Zero"><img alt="Zero" src="http://static.flickr.com/46/147488458_9d401b0032_s.jpg" border="0"></a>
+
+Web services rock! Long live the API! 
+
+As seen [here](http://metaatem.net/words/THIS%20IS%20COOL!) from this great series of [postings](http://majestic.typepad.com/seth/2005/03/media_futures_p_1.html)
+
+Interesting [stats](http://www.indeed.com/jobtrends?q=ruby+on+rails).

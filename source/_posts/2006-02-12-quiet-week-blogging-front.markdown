@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Quiet week on the blogging front"
+date: 2006-02-12 17:21:25
+comments: true
+categories:
+---
+
+I've neglected my blogging duties this week, mainly due to starting a new contract in Hertford. It has been interesting working again, equipped with all my recently acquired knowledge from studying the last few months. The work is extracting some useful information from a well known auction platform using their API. The power of web services is really highlighted when the possibility of automating processes based on real time information is explored. Automata that can provide a service ad infinitum (well at least until the API being used changes or becomes redundant) have an amazing possibility for generating a revenue. Of course, risk management becomes a real issue. You can't let a web service keep spending money on a loss making venture.
+
+One of the fundamentals of risk management is diversification. Hence a pension fund spreads it's investments over different sectors of industry, over different markets of the world. Thus, any single event, such as a company going bankrupt, a market for a good drying up, or a country entering recession will have a marginal effect on the value of the sum of all those investments. An interesting phenomenon happening on the Internet that I didn't know about until recently is affiliate marketing. The idea, as far as I can gauge, is to spread the risk of the cost of advertising on the Internet. By opening up this market to third parties, you reduce the chance of your advertising department failing at great cost.
+
+My eyes have been opened by the scale of Internet advertising and how big a player Google is. When you start to realise how closely tied in their search engine is to their keyword sensitive advertising engine, you can see how clever they have been. For every search you make an auction takes place between many affiliate marketers to get there advert shown to you on the right hand side of the page. Google applies feedback to the process, so that the ads that get clicked on most, get shown most, and for less cost. The theory is the Google user will be happier when he/she sees/uses more relevant advertising.
+
+Why are affiliate marketers spending money on Google to advertise all these Internet brands? Hard cash incentives! For every purchase that someone makes as result of clicking on one of you ads, you will receive a generous reimbursement, especially if that person becomes a new signed up user with a verifiable account, address and credit card.
+
+All of this is now extending to the blogging space with [AdSense](http://adsense.google.com). A blog, in a way, is a great destination to go to from a search results page. It's human written content, current and easy for search engines to index. If someone finds a blog that interests them, then they will spend sometime there in a state of thought, rather than a quick clicking navigation and rapid scanning of the pages content. Perfect advertising real estate! Amazon have been on to this for a while. A great example of this is here where a well known Agile Methodologies author describes some of the books in his \"signature\" series and provides links to Amazon where you can buy them. Not only does Martin Fowler receive money from Amazon for driving the link, but also from the publisher for being the author! That website must pay for itself.
+
+There's nothing wrong with making money from a blog and a writing career, but when you see behind the scenes how much of your eBay or Amazon cash is going to lots of other people you have never heard of, it is an eye opener.
