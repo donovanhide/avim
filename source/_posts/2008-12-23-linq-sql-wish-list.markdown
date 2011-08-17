@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Linq To SQL Wish List"
-permalink: "linq-sql-wish-list"
 date: 2008-12-23 22:44:13
 comments: true
 categories:
