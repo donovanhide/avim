@@ -3,7 +3,7 @@ layout: post
 title: "British Library"
 date: 2006-01-19 15:15:07
 comments: true
-categories:
+categories: "Articles"
 ---
 
 Since October 15th 2005 I've been in a state of deliberate unemployment. After working for four years as an IT Manager at an [animation company](http://www.passion-pictures.com) in the West End of London I decided I didn't find helping people to use software and computers that fulfilling, but rather preferred writing the software that they use.

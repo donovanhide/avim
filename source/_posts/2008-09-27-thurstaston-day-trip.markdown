@@ -3,7 +3,7 @@ layout: post
 title: "Thurstaston Day Trip"
 date: 2008-09-27 20:43:19
 comments: true
-categories: 
+categories: "Photos"
 ---
 
 Had fun taking photographs around the church where the owner of the White Star Line ended up being buried.

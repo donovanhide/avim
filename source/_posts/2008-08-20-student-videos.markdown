@@ -3,7 +3,7 @@ layout: post
 title: "Student Videos"
 date: 2008-08-20 15:21:02
 comments: true
-categories:
+categories: "Videos"
 ---
 
 Some short videos that we did at Sunderland University. Embarrassing but funny!

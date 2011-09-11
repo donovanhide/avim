@@ -3,9 +3,9 @@ layout: post
 title: "Developer Diary"
 date: 2011-09-10 23:43
 comments: true
-categories: superfastmatch
+categories: "Superfastmatch Articles Code"
 ---
-The open-souring of SuperFastMatch has been generously funded by the
+The open-souring of [SuperFastMatch][] has been generously funded by the
 [Sunlight Foundation][] and as part of the agreement I will keep a diary
 of the project's progress here:
 
@@ -293,6 +293,7 @@ Another possible use of this sort of "heatmap" might be to visualise the
 originality of texts, with common phrases coloured red perhaps and more
 original phrases in a cooler tone!
 
+  [SuperFastMatch]: http://superfastmatch.org/
   [Sunlight Foundation]: http://sunlightfoundation.com/
   [Churnalism.com]: http://churnalism.com
   [Python]: http://python.org

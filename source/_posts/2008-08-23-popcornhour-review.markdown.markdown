@@ -3,7 +3,7 @@ layout: post
 title: "PopcornHour Review"
 date: 2008-08-23 15:24:13
 comments: true
-categories:
+categories: "Articles"
 ---
 
 I think it would be fair to say that [BitTorrent](http://www.bittorrent.org/beps/bep_0003.html) has already begun to radically change the viewing and spending habits of the connected world. I know how much I hate watching adverts and having my attention disrupted by non-public service channels. I also dislike having my viewing schedule dictated by television station controllers. Broadcasters are starting to awaken to this, and the BBC seems to be leading the way with its [iPlayer](http://www.bbc.co.uk/iplayer/) offering. However, the content available on this conduit isn't exactly premium viewing.

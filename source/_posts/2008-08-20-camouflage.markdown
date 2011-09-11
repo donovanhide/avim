@@ -3,7 +3,7 @@ layout: post
 title: "Camouflage"
 date: 2008-08-20 15:33:44
 comments: true
-categories:
+categories: "Videos"
 ---
 A short film I helped work on while at [Sherbet](http://www.sherbet.co.uk). I really enjoyed that period of work and look back with fondness at what was done there:
 

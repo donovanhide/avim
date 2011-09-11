@@ -3,7 +3,7 @@ layout: post
 title: "Other Worldly Transport"
 date: 2008-09-27 12:22
 comments: true
-categories: 
+categories: "Videos"
 ---
 There's something unreal about the way this Russian Sea Plane floats just above the water. Like something from a Philip K Dick novel. That would be some way to cross an ocean!
 

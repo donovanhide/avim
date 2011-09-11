@@ -3,7 +3,7 @@ layout: post
 title: "Back to Blog with a Bang!"
 date: 2011-08-11 14:22
 comments: true
-categories: 
+categories: "Deja-vu Photos"
 ---
 
 <a href="http://www.flickr.com/photos/donch/6083774828/" title="DSC_0247.jpg by Donovan Hide, on Flickr"><img src="http://farm7.static.flickr.com/6078/6083774828_ee47c22c9b_b.jpg" width="1024" height="551" alt="DSC_0247.jpg"></a>

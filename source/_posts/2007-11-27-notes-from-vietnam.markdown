@@ -3,7 +3,7 @@ layout: post
 title: "Notes From Vietnam"
 date: 2007-11-27 16:28:27
 comments: true
-categories:
+categories: "Articles"
 ---
 
 It's  a rainy day in Hue so I thought I'd get down a few notes while I've got nothing better to do ...

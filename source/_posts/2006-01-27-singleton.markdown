@@ -3,7 +3,7 @@ layout: post
 title: "The Singleton"
 date: 2006-01-27 16:47:13
 comments: true
-categories:
+categories: "Code"
 ---
 
 I recently had a phone interview for a developer job with an interesting sounding company working on a desktop application with some venture money in Clerkenwell. It was my first interview for 4 years and I fluffed it up. The difficulty was describing code verbally rather than through a computer screen, or more specifically an Integrated Development Environment. The challenge that I messed up was to describe the mechanics and problems associated with the simplest of the ["Gang of Four"](http://c2.com/cgi/wiki?GangOfFour) Design Patterns, the Singleton.

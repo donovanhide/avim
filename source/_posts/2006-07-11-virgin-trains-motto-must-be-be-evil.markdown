@@ -3,7 +3,7 @@ layout: post
 title: "Virgin Trains motto must be \"Be Evil\""
 date: 2006-07-11 01:27:29
 comments: true
-categories:
+categories: "Rants"
 ---
 
 From time to time I write a letter to my local MP when something really bothers me. Here is the transcript of my latest correspondence:

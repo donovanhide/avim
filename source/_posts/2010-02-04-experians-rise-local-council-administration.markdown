@@ -3,7 +3,7 @@ layout: post
 title: "Experian's rise in local council administration"
 date: 2010-02-04 15:10:40
 comments: true
-categories:
+categories: "Rants"
 ---
 
 I've had a recent experience with Liverpool City Council that has raised my awareness of the increasing role of the credit agency in the decisions made by local government officials. It has also highlighted the detachment and lack of accountability that a public-private-partnership run call centre affords these officials. The credit reference agency in question is [Experian][1] and the product that they sell is called [Residency Checker][2]. The PPP call centre is called [Liverpool Direct][3] and is 80% owned by [BT][4]. The third party who brings an added bonus to the formula is [The Royal Mail][5].

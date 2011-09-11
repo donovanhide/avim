@@ -3,7 +3,7 @@ layout: post
 title: "Virgin Trains - The Horror Worsens"
 date: 2007-12-21 01:01:04
 comments: true
-categories:
+categories: "Rants"
 ---
 
 It's Christmas, I want to go home to see my family. The media points out that there are terrible timetable delays to look forward to. I fear the \"turn up at Euston and not get a seat, or even get on the train, because of overcrowding\" scenario. I therefore try and make a seat reservation at [www.virgintrains.com](http://www.virgintrains.com) for travel tomorrow. I see things have changed, a new website design with a new fare matrix.

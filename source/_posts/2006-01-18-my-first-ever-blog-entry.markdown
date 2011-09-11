@@ -3,7 +3,7 @@ layout: post
 title: "My first ever blog entry"
 date: 2006-01-18 19:10:16
 comments: true
-categories:
+categories: "Deja-vu"
 ---
 
 Here it is!

@@ -3,7 +3,7 @@ layout: post
 title: "URLDecoder SQL CLR UDF"
 date: 2006-07-18 09:03:13
 comments: true
-categories:
+categories: "Code"
 ---
 
 Annoyingly the SQL CLR engine does not allow the use of the System.Web assembly and consequently you cannot use the very helpful HttpServerUtility.UrlDecode member in your User Defined Functions. Here is a quick hack which does something similar. Useful if you are in a rush!

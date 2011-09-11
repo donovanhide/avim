@@ -3,7 +3,7 @@ layout: post
 title: "Archimedes memories"
 date: 2009-06-14 01:34:04
 comments: true
-categories:
+categories: "Videos"
 ---
 
 Almost bought tears to my eyes ...
