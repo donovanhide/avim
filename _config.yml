@@ -27,8 +27,8 @@ source: source
 destination: public
 plugins: plugins
 code_dir: downloads/code
-category_dir: tags
-category_title_prefix: "Tag: "
+category_dir: tag
+category_title_prefix: ""
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
