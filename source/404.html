@@ -1,0 +1,13 @@
+---
+layout: page
+title: Oops!
+footer: false
+---
+<p>It looks like you have requested a file which no longer exists. Here is a list of recently published posts.</p>
+<div id="blog-archives" class="missing">
+{% for post in site.posts limit: 10 %}
+<article>
+  {% include archive_post.html %}
+</article>
+{% endfor %}
+</div>

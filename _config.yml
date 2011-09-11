@@ -27,13 +27,14 @@ source: source
 destination: public
 plugins: plugins
 code_dir: downloads/code
-category_dir: blog/categories
+category_dir: tags
+category_title_prefix: "Tag: "
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10 # Posts per page on the blog index
 recent_posts: 10 # Posts in the sidebar Recent Posts section
-pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
+pagination_dir:   # Directory base for pagination URLs eg. /blog/page/2/
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
