@@ -3,7 +3,7 @@ layout: post
 title: "Threads, locks and concurrency"
 date: 2006-01-25 22:23:56
 comments: true
-categories: "code"
+categories: "Code"
 ---
 
 Just working through An Introduction to [Programming with C# Threads](http://research.microsoft.com/~birrell/papers/ThreadsCSharp.pdf) by Andrew D. Birrell. I'm finding the best way to understand all of this is to write code that breaks and then fix it. Not quite sure how to use unit tests with threading problems yet, so I'll just show the before and after code.

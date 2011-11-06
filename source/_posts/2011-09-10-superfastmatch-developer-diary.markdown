@@ -5,9 +5,28 @@ date: 2011-09-10 23:43
 comments: true
 categories: "Superfastmatch Articles Code"
 ---
-The open-souring of [SuperFastMatch][] has been generously funded by the
-[Sunlight Foundation][] and as part of the agreement I will keep a diary
-of the project's progress here:
+
+SuperFastMatch is a project which began life as a piece of research and
+development in the production of
+[Churnalism.com](http://churnalism.com/) in 2010/2011 for the [Media Standards Trust](http://mediastandardstrust.org/). A means was
+required of comparing a given text with over 3 million news articles in
+the [Journalisted.com](http://journalisted.com/) archive. The idea was
+to find the articles which had the longest sections of common text and
+to then rank them according to their respective percentages of reuse.
+
+Initially, we looked at existing search engines like
+[Xapian](http://xapian.org) and [Lucene](http://lucene.apache.org/) and
+although being very effective at finding articles containing the same
+words, they weren't particulary good at finding the articles with the
+longest common strings. More info on this can be found
+[here](http://mediastandardstrust.org/blog/the-technology-driving-churnalism-com/).
+
+Besides spotting [churnalism](http://en.wikipedia.org/wiki/Churnalism),
+the software seemed to have other potential uses and the [Sunlight
+Foundation](http://sunlightfoundation.com/) believes it could be applied
+to spotting duplicated federal law. To facilitate this application they
+have generously offered to fund the open sourcing of this software, and
+the results should hopefully be soon tested against the [OpenStates](http://openstates.sunlightlabs.com/) project. I'd like to thank Martin Moore, Ben Campbell, Tom Lee and everyone else at Sunlight for the opportunity to work on this great project!
 
 # Week 1
 
